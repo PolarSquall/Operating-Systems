@@ -1,0 +1,1 @@
+One of the functions of an operating system is to manage the cpu.To do this, the operating system will first find the files to a ceratin program in it's memory, and then uses the information found to instruct the cpu. Without the cpu and the operating system, a computer won't be able to function properly.
